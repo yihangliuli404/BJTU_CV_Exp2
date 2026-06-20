@@ -1,0 +1,11 @@
+﻿torch
+torchvision
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+faiss-cpu
+paddleocr
